@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.d
+*.crf
+*.dep
+*.inp
+*.sct
+*.htm
+*.dbgconf
